@@ -1,4 +1,10 @@
-### Hi there 👋
+- 👋 Hi, I am @lonnekeheijnen
+- 🌱 I'm currently an econometrics master's student in the Netherlands. 
+- 🔭 I'm interested in data/business analytics
+- 🌱 I'm learning Python, R and Matlab
+
+
+
 
 <!--
 **lonnekeheijnen/lonnekeheijnen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
