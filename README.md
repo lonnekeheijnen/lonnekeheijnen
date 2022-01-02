@@ -1,6 +1,6 @@
 - 👋 Hi, I am @lonnekeheijnen
-- 🌱 I'm currently an econometrics master's student in the Netherlands. 
-- 🔭 I'm interested in data/business analytics
+- 🌱 I'm currently an econometrics master's student in the Netherlands, studying Business Analytics and Operations Research
+- 🔭 I'm interested in data and business analytics
 - 🌱 I'm learning Python, R and Matlab
 
 
