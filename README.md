@@ -1,5 +1,5 @@
 - 👋 Hi, I am @lonnekeheijnen
-
+- 🔭 I’m currently working as a data scientist
 
 
 
